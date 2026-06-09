@@ -1,0 +1,73 @@
+year,platform,aesthetic,color_name,hex,vibe,engagement_score,posts_millions
+2019,Instagram,Dopamine Dressing,Electric Blue,#7DF9FF,bright,86.8,12.15
+2019,Instagram,Coastal Grandmother,Oat,#E8D5B7,neutral,77.4,6.64
+2019,Instagram,Maximalist,Electric Blue,#7DF9FF,bright,90.3,14.86
+2019,Pinterest,Old Money,Hot Pink,#FF69B4,bright,87.7,2.0
+2019,Pinterest,Y2K,Soft Pink,#FFB7C5,warm,76.7,7.7
+2019,Pinterest,Dopamine Dressing,Oat,#E8D5B7,neutral,66.0,13.49
+2019,TikTok,Dark Academia,Vanilla,#F3E5AB,warm,78.7,9.66
+2019,TikTok,Clean Girl,Caramel,#C68642,warm,54.6,9.24
+2019,TikTok,Coastal Grandmother,Vanilla,#F3E5AB,warm,83.6,11.41
+2019,Twitter/X,Cottagecore,Clay,#B66A50,warm,72.1,13.37
+2019,Twitter/X,Minimalist,Dusty Mauve,#C4A4A4,warm,98.4,10.48
+2019,Twitter/X,Y2K,Clay,#B66A50,warm,80.9,1.97
+2020,Instagram,Maximalist,Caramel,#C68642,warm,61.7,8.93
+2020,Instagram,Barbiecore,Soft Pink,#FFB7C5,warm,94.0,3.93
+2020,Instagram,Minimalist,Hot Pink,#FF69B4,bright,99.3,11.42
+2020,Pinterest,Dopamine Dressing,Hot Pink,#FF69B4,bright,71.7,4.18
+2020,Pinterest,Cottagecore,Dusty Mauve,#C4A4A4,warm,73.4,1.32
+2020,Pinterest,Clean Girl,Electric Blue,#7DF9FF,bright,55.9,9.91
+2020,TikTok,Dark Academia,Electric Blue,#7DF9FF,bright,76.4,6.83
+2020,TikTok,Clean Girl,Clay,#B66A50,warm,50.6,14.56
+2020,TikTok,Dopamine Dressing,Caramel,#C68642,warm,52.2,13.91
+2020,Twitter/X,Coastal Grandmother,Soft Pink,#FFB7C5,warm,84.8,7.09
+2020,Twitter/X,Barbiecore,Caramel,#C68642,warm,84.8,6.07
+2020,Twitter/X,Clean Girl,Hot Pink,#FF69B4,bright,52.3,4.57
+2021,Instagram,Cottagecore,Clay,#B66A50,warm,61.5,4.36
+2021,Instagram,Y2K,Caramel,#C68642,warm,98.7,14.8
+2021,Instagram,Old Money,Midnight,#191970,dark,51.6,4.56
+2021,Pinterest,Clean Girl,Midnight,#191970,dark,97.5,11.02
+2021,Pinterest,Cottagecore,Oat,#E8D5B7,neutral,70.9,14.02
+2021,Pinterest,Y2K,Dusty Mauve,#C4A4A4,warm,77.6,2.89
+2021,TikTok,Minimalist,Oat,#E8D5B7,neutral,98.5,12.71
+2021,TikTok,Barbiecore,Soft Pink,#FFB7C5,warm,73.4,6.51
+2021,TikTok,Maximalist,Soft Pink,#FFB7C5,warm,50.7,1.59
+2021,Twitter/X,Dark Academia,Caramel,#C68642,warm,97.2,12.82
+2021,Twitter/X,Minimalist,Soft Pink,#FFB7C5,warm,62.1,3.47
+2021,Twitter/X,Dopamine Dressing,Soft Pink,#FFB7C5,warm,97.7,9.29
+2022,Instagram,Old Money,Midnight,#191970,dark,91.6,4.96
+2022,Instagram,Y2K,Soft Pink,#FFB7C5,warm,77.6,8.63
+2022,Instagram,Coastal Grandmother,Oat,#E8D5B7,neutral,79.5,7.46
+2022,Pinterest,Cottagecore,Dusty Mauve,#C4A4A4,warm,67.5,9.05
+2022,Pinterest,Barbiecore,Sage,#A8C5A0,cool,95.2,5.55
+2022,Pinterest,Minimalist,Midnight,#191970,dark,72.5,13.7
+2022,TikTok,Old Money,Soft Pink,#FFB7C5,warm,62.9,7.16
+2022,TikTok,Coastal Grandmother,Dusty Mauve,#C4A4A4,warm,81.0,5.54
+2022,TikTok,Dopamine Dressing,Sage,#A8C5A0,cool,76.9,7.17
+2022,Twitter/X,Dark Academia,Dusty Mauve,#C4A4A4,warm,80.1,3.75
+2022,Twitter/X,Barbiecore,Caramel,#C68642,warm,58.4,4.54
+2022,Twitter/X,Maximalist,Midnight,#191970,dark,54.4,2.25
+2023,Instagram,Minimalist,Oat,#E8D5B7,neutral,74.1,10.47
+2023,Instagram,Clean Girl,Electric Blue,#7DF9FF,bright,93.7,13.85
+2023,Instagram,Dopamine Dressing,Soft Pink,#FFB7C5,warm,63.8,12.19
+2023,Pinterest,Barbiecore,Electric Blue,#7DF9FF,bright,86.0,1.4
+2023,Pinterest,Dopamine Dressing,Electric Blue,#7DF9FF,bright,56.7,10.46
+2023,Pinterest,Old Money,Hot Pink,#FF69B4,bright,75.6,8.22
+2023,TikTok,Clean Girl,Oat,#E8D5B7,neutral,92.0,1.79
+2023,TikTok,Old Money,Oat,#E8D5B7,neutral,94.5,9.11
+2023,TikTok,Barbiecore,Vanilla,#F3E5AB,warm,67.8,9.91
+2023,Twitter/X,Maximalist,Oat,#E8D5B7,neutral,66.9,13.54
+2023,Twitter/X,Dopamine Dressing,Dusty Mauve,#C4A4A4,warm,62.2,7.72
+2023,Twitter/X,Y2K,Midnight,#191970,dark,80.3,3.94
+2024,Instagram,Cottagecore,Electric Blue,#7DF9FF,bright,94.8,1.66
+2024,Instagram,Old Money,Sage,#A8C5A0,cool,50.9,10.61
+2024,Instagram,Clean Girl,Electric Blue,#7DF9FF,bright,55.6,6.27
+2024,Pinterest,Maximalist,Electric Blue,#7DF9FF,bright,73.8,12.66
+2024,Pinterest,Barbiecore,Caramel,#C68642,warm,59.4,5.19
+2024,Pinterest,Clean Girl,Sage,#A8C5A0,cool,60.0,11.18
+2024,TikTok,Dark Academia,Soft Pink,#FFB7C5,warm,68.5,7.09
+2024,TikTok,Dopamine Dressing,Caramel,#C68642,warm,53.2,14.85
+2024,TikTok,Clean Girl,Electric Blue,#7DF9FF,bright,90.5,4.19
+2024,Twitter/X,Minimalist,Caramel,#C68642,warm,91.5,14.49
+2024,Twitter/X,Clean Girl,Caramel,#C68642,warm,86.5,14.11
+2024,Twitter/X,Barbiecore,Sage,#A8C5A0,cool,53.3,11.25

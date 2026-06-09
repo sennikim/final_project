@@ -1,0 +1,601 @@
+year,industry,color_family,popularity_index
+2010,Fashion,Red,42.4
+2010,Fashion,Blue,83.4
+2010,Fashion,Green,62.9
+2010,Fashion,Yellow,35.2
+2010,Fashion,Purple,46.7
+2010,Fashion,Pink,75.6
+2010,Fashion,Orange,40.5
+2010,Fashion,Neutral,80.3
+2010,Film,Red,50.3
+2010,Film,Blue,65.1
+2010,Film,Green,52.7
+2010,Film,Yellow,41.0
+2010,Film,Purple,35.0
+2010,Film,Pink,80.8
+2010,Film,Orange,28.4
+2010,Film,Neutral,74.9
+2010,Social Media,Red,55.3
+2010,Social Media,Blue,71.3
+2010,Social Media,Green,72.5
+2010,Social Media,Yellow,42.7
+2010,Social Media,Purple,38.2
+2010,Social Media,Pink,81.9
+2010,Social Media,Orange,18.4
+2010,Social Media,Neutral,59.7
+2010,Interior Design,Red,66.3
+2010,Interior Design,Blue,68.9
+2010,Interior Design,Green,63.1
+2010,Interior Design,Yellow,38.4
+2010,Interior Design,Purple,41.5
+2010,Interior Design,Pink,50.5
+2010,Interior Design,Orange,55.8
+2010,Interior Design,Neutral,64.8
+2010,Graphic Design,Red,47.9
+2010,Graphic Design,Blue,59.7
+2010,Graphic Design,Green,54.9
+2010,Graphic Design,Yellow,38.9
+2010,Graphic Design,Purple,50.3
+2010,Graphic Design,Pink,72.9
+2010,Graphic Design,Orange,27.4
+2010,Graphic Design,Neutral,67.8
+2011,Fashion,Red,56.5
+2011,Fashion,Blue,54.4
+2011,Fashion,Green,63.6
+2011,Fashion,Yellow,42.9
+2011,Fashion,Purple,45.3
+2011,Fashion,Pink,54.4
+2011,Fashion,Orange,33.1
+2011,Fashion,Neutral,67.9
+2011,Film,Red,54.6
+2011,Film,Blue,68.7
+2011,Film,Green,75.6
+2011,Film,Yellow,43.5
+2011,Film,Purple,32.3
+2011,Film,Pink,87.0
+2011,Film,Orange,54.1
+2011,Film,Neutral,63.8
+2011,Social Media,Red,31.9
+2011,Social Media,Blue,58.4
+2011,Social Media,Green,56.2
+2011,Social Media,Yellow,39.7
+2011,Social Media,Purple,36.3
+2011,Social Media,Pink,54.3
+2011,Social Media,Orange,37.3
+2011,Social Media,Neutral,64.3
+2011,Interior Design,Red,58.0
+2011,Interior Design,Blue,66.3
+2011,Interior Design,Green,65.0
+2011,Interior Design,Yellow,41.6
+2011,Interior Design,Purple,41.4
+2011,Interior Design,Pink,63.9
+2011,Interior Design,Orange,27.4
+2011,Interior Design,Neutral,63.4
+2011,Graphic Design,Red,44.2
+2011,Graphic Design,Blue,71.6
+2011,Graphic Design,Green,62.3
+2011,Graphic Design,Yellow,40.7
+2011,Graphic Design,Purple,45.8
+2011,Graphic Design,Pink,59.4
+2011,Graphic Design,Orange,28.1
+2011,Graphic Design,Neutral,76.2
+2012,Fashion,Red,53.9
+2012,Fashion,Blue,50.1
+2012,Fashion,Green,50.0
+2012,Fashion,Yellow,35.2
+2012,Fashion,Purple,41.3
+2012,Fashion,Pink,71.4
+2012,Fashion,Orange,33.2
+2012,Fashion,Neutral,77.6
+2012,Film,Red,56.2
+2012,Film,Blue,61.0
+2012,Film,Green,52.2
+2012,Film,Yellow,56.9
+2012,Film,Purple,42.9
+2012,Film,Pink,58.9
+2012,Film,Orange,28.5
+2012,Film,Neutral,74.8
+2012,Social Media,Red,54.0
+2012,Social Media,Blue,67.7
+2012,Social Media,Green,65.2
+2012,Social Media,Yellow,43.9
+2012,Social Media,Purple,38.0
+2012,Social Media,Pink,69.1
+2012,Social Media,Orange,41.6
+2012,Social Media,Neutral,75.7
+2012,Interior Design,Red,47.1
+2012,Interior Design,Blue,77.3
+2012,Interior Design,Green,61.7
+2012,Interior Design,Yellow,50.1
+2012,Interior Design,Purple,49.8
+2012,Interior Design,Pink,75.0
+2012,Interior Design,Orange,30.2
+2012,Interior Design,Neutral,65.1
+2012,Graphic Design,Red,61.1
+2012,Graphic Design,Blue,47.9
+2012,Graphic Design,Green,62.9
+2012,Graphic Design,Yellow,37.1
+2012,Graphic Design,Purple,57.6
+2012,Graphic Design,Pink,73.4
+2012,Graphic Design,Orange,32.3
+2012,Graphic Design,Neutral,66.2
+2013,Fashion,Red,44.2
+2013,Fashion,Blue,79.1
+2013,Fashion,Green,71.3
+2013,Fashion,Yellow,42.7
+2013,Fashion,Purple,56.0
+2013,Fashion,Pink,75.8
+2013,Fashion,Orange,40.8
+2013,Fashion,Neutral,72.1
+2013,Film,Red,48.5
+2013,Film,Blue,59.0
+2013,Film,Green,54.1
+2013,Film,Yellow,36.3
+2013,Film,Purple,50.4
+2013,Film,Pink,51.5
+2013,Film,Orange,31.1
+2013,Film,Neutral,84.4
+2013,Social Media,Red,59.4
+2013,Social Media,Blue,54.5
+2013,Social Media,Green,55.9
+2013,Social Media,Yellow,46.1
+2013,Social Media,Purple,61.1
+2013,Social Media,Pink,70.8
+2013,Social Media,Orange,47.6
+2013,Social Media,Neutral,75.8
+2013,Interior Design,Red,57.6
+2013,Interior Design,Blue,84.9
+2013,Interior Design,Green,48.8
+2013,Interior Design,Yellow,40.8
+2013,Interior Design,Purple,53.1
+2013,Interior Design,Pink,73.9
+2013,Interior Design,Orange,23.8
+2013,Interior Design,Neutral,82.1
+2013,Graphic Design,Red,45.9
+2013,Graphic Design,Blue,71.8
+2013,Graphic Design,Green,60.5
+2013,Graphic Design,Yellow,21.8
+2013,Graphic Design,Purple,34.8
+2013,Graphic Design,Pink,55.0
+2013,Graphic Design,Orange,38.0
+2013,Graphic Design,Neutral,73.6
+2014,Fashion,Red,57.9
+2014,Fashion,Blue,78.5
+2014,Fashion,Green,82.0
+2014,Fashion,Yellow,45.8
+2014,Fashion,Purple,47.6
+2014,Fashion,Pink,60.2
+2014,Fashion,Orange,47.7
+2014,Fashion,Neutral,78.5
+2014,Film,Red,41.4
+2014,Film,Blue,58.6
+2014,Film,Green,61.9
+2014,Film,Yellow,37.5
+2014,Film,Purple,36.1
+2014,Film,Pink,72.5
+2014,Film,Orange,31.3
+2014,Film,Neutral,65.0
+2014,Social Media,Red,66.3
+2014,Social Media,Blue,76.6
+2014,Social Media,Green,45.2
+2014,Social Media,Yellow,54.9
+2014,Social Media,Purple,48.3
+2014,Social Media,Pink,60.0
+2014,Social Media,Orange,35.5
+2014,Social Media,Neutral,65.2
+2014,Interior Design,Red,49.3
+2014,Interior Design,Blue,47.1
+2014,Interior Design,Green,79.9
+2014,Interior Design,Yellow,29.0
+2014,Interior Design,Purple,37.9
+2014,Interior Design,Pink,48.2
+2014,Interior Design,Orange,51.4
+2014,Interior Design,Neutral,72.8
+2014,Graphic Design,Red,53.9
+2014,Graphic Design,Blue,70.1
+2014,Graphic Design,Green,43.3
+2014,Graphic Design,Yellow,42.1
+2014,Graphic Design,Purple,50.8
+2014,Graphic Design,Pink,53.6
+2014,Graphic Design,Orange,47.0
+2014,Graphic Design,Neutral,68.2
+2015,Fashion,Red,49.4
+2015,Fashion,Blue,71.0
+2015,Fashion,Green,55.3
+2015,Fashion,Yellow,20.3
+2015,Fashion,Purple,37.0
+2015,Fashion,Pink,70.0
+2015,Fashion,Orange,40.8
+2015,Fashion,Neutral,64.1
+2015,Film,Red,47.8
+2015,Film,Blue,72.2
+2015,Film,Green,54.7
+2015,Film,Yellow,51.0
+2015,Film,Purple,55.6
+2015,Film,Pink,73.4
+2015,Film,Orange,41.9
+2015,Film,Neutral,81.9
+2015,Social Media,Red,45.1
+2015,Social Media,Blue,82.3
+2015,Social Media,Green,51.7
+2015,Social Media,Yellow,38.3
+2015,Social Media,Purple,63.7
+2015,Social Media,Pink,67.1
+2015,Social Media,Orange,42.0
+2015,Social Media,Neutral,66.3
+2015,Interior Design,Red,43.7
+2015,Interior Design,Blue,78.5
+2015,Interior Design,Green,42.1
+2015,Interior Design,Yellow,52.5
+2015,Interior Design,Purple,23.0
+2015,Interior Design,Pink,78.0
+2015,Interior Design,Orange,45.0
+2015,Interior Design,Neutral,64.1
+2015,Graphic Design,Red,62.7
+2015,Graphic Design,Blue,74.2
+2015,Graphic Design,Green,54.4
+2015,Graphic Design,Yellow,32.7
+2015,Graphic Design,Purple,59.4
+2015,Graphic Design,Pink,48.2
+2015,Graphic Design,Orange,47.0
+2015,Graphic Design,Neutral,79.1
+2016,Fashion,Red,38.1
+2016,Fashion,Blue,79.9
+2016,Fashion,Green,56.4
+2016,Fashion,Yellow,40.0
+2016,Fashion,Purple,52.8
+2016,Fashion,Pink,66.1
+2016,Fashion,Orange,38.2
+2016,Fashion,Neutral,77.7
+2016,Film,Red,46.9
+2016,Film,Blue,85.0
+2016,Film,Green,50.0
+2016,Film,Yellow,52.4
+2016,Film,Purple,47.1
+2016,Film,Pink,59.5
+2016,Film,Orange,21.0
+2016,Film,Neutral,76.0
+2016,Social Media,Red,78.7
+2016,Social Media,Blue,73.9
+2016,Social Media,Green,61.6
+2016,Social Media,Yellow,39.2
+2016,Social Media,Purple,31.5
+2016,Social Media,Pink,70.2
+2016,Social Media,Orange,47.1
+2016,Social Media,Neutral,84.9
+2016,Interior Design,Red,44.8
+2016,Interior Design,Blue,54.2
+2016,Interior Design,Green,58.0
+2016,Interior Design,Yellow,46.0
+2016,Interior Design,Purple,34.2
+2016,Interior Design,Pink,59.6
+2016,Interior Design,Orange,35.9
+2016,Interior Design,Neutral,55.7
+2016,Graphic Design,Red,61.5
+2016,Graphic Design,Blue,54.6
+2016,Graphic Design,Green,63.0
+2016,Graphic Design,Yellow,36.8
+2016,Graphic Design,Purple,48.2
+2016,Graphic Design,Pink,79.9
+2016,Graphic Design,Orange,34.6
+2016,Graphic Design,Neutral,81.7
+2017,Fashion,Red,36.7
+2017,Fashion,Blue,60.9
+2017,Fashion,Green,72.0
+2017,Fashion,Yellow,32.7
+2017,Fashion,Purple,39.7
+2017,Fashion,Pink,73.9
+2017,Fashion,Orange,30.0
+2017,Fashion,Neutral,51.8
+2017,Film,Red,51.9
+2017,Film,Blue,56.7
+2017,Film,Green,56.8
+2017,Film,Yellow,38.8
+2017,Film,Purple,52.1
+2017,Film,Pink,67.2
+2017,Film,Orange,38.0
+2017,Film,Neutral,66.9
+2017,Social Media,Red,50.9
+2017,Social Media,Blue,63.6
+2017,Social Media,Green,60.0
+2017,Social Media,Yellow,53.2
+2017,Social Media,Purple,52.7
+2017,Social Media,Pink,68.0
+2017,Social Media,Orange,32.6
+2017,Social Media,Neutral,84.1
+2017,Interior Design,Red,47.8
+2017,Interior Design,Blue,62.7
+2017,Interior Design,Green,48.9
+2017,Interior Design,Yellow,44.6
+2017,Interior Design,Purple,57.9
+2017,Interior Design,Pink,55.6
+2017,Interior Design,Orange,42.8
+2017,Interior Design,Neutral,82.4
+2017,Graphic Design,Red,34.2
+2017,Graphic Design,Blue,71.4
+2017,Graphic Design,Green,66.1
+2017,Graphic Design,Yellow,52.0
+2017,Graphic Design,Purple,49.4
+2017,Graphic Design,Pink,49.3
+2017,Graphic Design,Orange,44.6
+2017,Graphic Design,Neutral,70.7
+2018,Fashion,Red,54.5
+2018,Fashion,Blue,70.2
+2018,Fashion,Green,60.4
+2018,Fashion,Yellow,54.3
+2018,Fashion,Purple,59.1
+2018,Fashion,Pink,67.1
+2018,Fashion,Orange,38.7
+2018,Fashion,Neutral,59.2
+2018,Film,Red,66.4
+2018,Film,Blue,70.3
+2018,Film,Green,52.8
+2018,Film,Yellow,28.8
+2018,Film,Purple,33.0
+2018,Film,Pink,75.6
+2018,Film,Orange,34.1
+2018,Film,Neutral,75.3
+2018,Social Media,Red,40.4
+2018,Social Media,Blue,68.2
+2018,Social Media,Green,57.4
+2018,Social Media,Yellow,42.3
+2018,Social Media,Purple,32.4
+2018,Social Media,Pink,62.3
+2018,Social Media,Orange,51.3
+2018,Social Media,Neutral,71.2
+2018,Interior Design,Red,54.2
+2018,Interior Design,Blue,76.1
+2018,Interior Design,Green,35.7
+2018,Interior Design,Yellow,62.9
+2018,Interior Design,Purple,54.1
+2018,Interior Design,Pink,57.6
+2018,Interior Design,Orange,33.9
+2018,Interior Design,Neutral,74.4
+2018,Graphic Design,Red,50.1
+2018,Graphic Design,Blue,67.2
+2018,Graphic Design,Green,52.4
+2018,Graphic Design,Yellow,44.0
+2018,Graphic Design,Purple,26.6
+2018,Graphic Design,Pink,55.0
+2018,Graphic Design,Orange,39.5
+2018,Graphic Design,Neutral,85.9
+2019,Fashion,Red,59.7
+2019,Fashion,Blue,84.4
+2019,Fashion,Green,71.6
+2019,Fashion,Yellow,34.4
+2019,Fashion,Purple,45.4
+2019,Fashion,Pink,70.8
+2019,Fashion,Orange,36.3
+2019,Fashion,Neutral,83.6
+2019,Film,Red,56.1
+2019,Film,Blue,77.8
+2019,Film,Green,42.2
+2019,Film,Yellow,50.5
+2019,Film,Purple,47.6
+2019,Film,Pink,56.6
+2019,Film,Orange,19.0
+2019,Film,Neutral,89.3
+2019,Social Media,Red,47.2
+2019,Social Media,Blue,80.4
+2019,Social Media,Green,53.5
+2019,Social Media,Yellow,54.1
+2019,Social Media,Purple,56.9
+2019,Social Media,Pink,74.7
+2019,Social Media,Orange,50.2
+2019,Social Media,Neutral,73.0
+2019,Interior Design,Red,41.9
+2019,Interior Design,Blue,74.3
+2019,Interior Design,Green,70.6
+2019,Interior Design,Yellow,36.9
+2019,Interior Design,Purple,28.6
+2019,Interior Design,Pink,56.9
+2019,Interior Design,Orange,29.5
+2019,Interior Design,Neutral,77.5
+2019,Graphic Design,Red,39.5
+2019,Graphic Design,Blue,78.1
+2019,Graphic Design,Green,46.0
+2019,Graphic Design,Yellow,74.1
+2019,Graphic Design,Purple,50.0
+2019,Graphic Design,Pink,67.1
+2019,Graphic Design,Orange,49.0
+2019,Graphic Design,Neutral,92.9
+2020,Fashion,Red,48.4
+2020,Fashion,Blue,69.4
+2020,Fashion,Green,62.1
+2020,Fashion,Yellow,39.8
+2020,Fashion,Purple,51.2
+2020,Fashion,Pink,55.3
+2020,Fashion,Orange,29.4
+2020,Fashion,Neutral,74.6
+2020,Film,Red,74.1
+2020,Film,Blue,69.4
+2020,Film,Green,72.6
+2020,Film,Yellow,36.2
+2020,Film,Purple,61.0
+2020,Film,Pink,62.6
+2020,Film,Orange,28.0
+2020,Film,Neutral,91.3
+2020,Social Media,Red,51.9
+2020,Social Media,Blue,88.1
+2020,Social Media,Green,68.6
+2020,Social Media,Yellow,53.7
+2020,Social Media,Purple,69.8
+2020,Social Media,Pink,75.6
+2020,Social Media,Orange,53.9
+2020,Social Media,Neutral,94.2
+2020,Interior Design,Red,45.6
+2020,Interior Design,Blue,39.7
+2020,Interior Design,Green,61.2
+2020,Interior Design,Yellow,39.1
+2020,Interior Design,Purple,43.5
+2020,Interior Design,Pink,58.8
+2020,Interior Design,Orange,46.9
+2020,Interior Design,Neutral,71.7
+2020,Graphic Design,Red,47.5
+2020,Graphic Design,Blue,61.7
+2020,Graphic Design,Green,58.5
+2020,Graphic Design,Yellow,52.2
+2020,Graphic Design,Purple,47.9
+2020,Graphic Design,Pink,75.5
+2020,Graphic Design,Orange,36.9
+2020,Graphic Design,Neutral,74.1
+2021,Fashion,Red,44.2
+2021,Fashion,Blue,62.3
+2021,Fashion,Green,73.2
+2021,Fashion,Yellow,44.5
+2021,Fashion,Purple,54.0
+2021,Fashion,Pink,46.2
+2021,Fashion,Orange,62.2
+2021,Fashion,Neutral,72.7
+2021,Film,Red,47.3
+2021,Film,Blue,77.5
+2021,Film,Green,80.5
+2021,Film,Yellow,73.1
+2021,Film,Purple,43.1
+2021,Film,Pink,68.5
+2021,Film,Orange,33.2
+2021,Film,Neutral,75.9
+2021,Social Media,Red,64.9
+2021,Social Media,Blue,85.1
+2021,Social Media,Green,72.3
+2021,Social Media,Yellow,36.6
+2021,Social Media,Purple,52.3
+2021,Social Media,Pink,73.5
+2021,Social Media,Orange,43.3
+2021,Social Media,Neutral,52.4
+2021,Interior Design,Red,41.9
+2021,Interior Design,Blue,73.1
+2021,Interior Design,Green,38.8
+2021,Interior Design,Yellow,60.7
+2021,Interior Design,Purple,57.0
+2021,Interior Design,Pink,65.2
+2021,Interior Design,Orange,59.3
+2021,Interior Design,Neutral,76.6
+2021,Graphic Design,Red,47.1
+2021,Graphic Design,Blue,77.9
+2021,Graphic Design,Green,49.7
+2021,Graphic Design,Yellow,51.7
+2021,Graphic Design,Purple,50.0
+2021,Graphic Design,Pink,65.7
+2021,Graphic Design,Orange,58.2
+2021,Graphic Design,Neutral,58.8
+2022,Fashion,Red,57.8
+2022,Fashion,Blue,72.8
+2022,Fashion,Green,54.0
+2022,Fashion,Yellow,24.4
+2022,Fashion,Purple,59.0
+2022,Fashion,Pink,67.4
+2022,Fashion,Orange,33.4
+2022,Fashion,Neutral,95.0
+2022,Film,Red,50.1
+2022,Film,Blue,96.1
+2022,Film,Green,82.8
+2022,Film,Yellow,30.8
+2022,Film,Purple,41.7
+2022,Film,Pink,50.5
+2022,Film,Orange,50.7
+2022,Film,Neutral,83.2
+2022,Social Media,Red,43.3
+2022,Social Media,Blue,64.1
+2022,Social Media,Green,66.5
+2022,Social Media,Yellow,40.6
+2022,Social Media,Purple,42.4
+2022,Social Media,Pink,53.4
+2022,Social Media,Orange,43.1
+2022,Social Media,Neutral,63.6
+2022,Interior Design,Red,61.2
+2022,Interior Design,Blue,76.0
+2022,Interior Design,Green,65.1
+2022,Interior Design,Yellow,35.4
+2022,Interior Design,Purple,45.4
+2022,Interior Design,Pink,64.1
+2022,Interior Design,Orange,32.7
+2022,Interior Design,Neutral,85.1
+2022,Graphic Design,Red,62.3
+2022,Graphic Design,Blue,95.4
+2022,Graphic Design,Green,71.7
+2022,Graphic Design,Yellow,54.6
+2022,Graphic Design,Purple,47.6
+2022,Graphic Design,Pink,79.0
+2022,Graphic Design,Orange,29.5
+2022,Graphic Design,Neutral,52.9
+2023,Fashion,Red,47.8
+2023,Fashion,Blue,94.4
+2023,Fashion,Green,67.7
+2023,Fashion,Yellow,23.2
+2023,Fashion,Purple,46.5
+2023,Fashion,Pink,62.8
+2023,Fashion,Orange,43.6
+2023,Fashion,Neutral,67.4
+2023,Film,Red,67.5
+2023,Film,Blue,94.0
+2023,Film,Green,62.6
+2023,Film,Yellow,39.8
+2023,Film,Purple,71.3
+2023,Film,Pink,61.9
+2023,Film,Orange,19.6
+2023,Film,Neutral,78.2
+2023,Social Media,Red,79.4
+2023,Social Media,Blue,46.8
+2023,Social Media,Green,74.0
+2023,Social Media,Yellow,30.7
+2023,Social Media,Purple,57.0
+2023,Social Media,Pink,61.4
+2023,Social Media,Orange,33.8
+2023,Social Media,Neutral,90.2
+2023,Interior Design,Red,43.9
+2023,Interior Design,Blue,61.4
+2023,Interior Design,Green,38.4
+2023,Interior Design,Yellow,30.5
+2023,Interior Design,Purple,61.4
+2023,Interior Design,Pink,57.6
+2023,Interior Design,Orange,22.7
+2023,Interior Design,Neutral,92.3
+2023,Graphic Design,Red,78.0
+2023,Graphic Design,Blue,78.6
+2023,Graphic Design,Green,87.0
+2023,Graphic Design,Yellow,55.2
+2023,Graphic Design,Purple,69.1
+2023,Graphic Design,Pink,79.3
+2023,Graphic Design,Orange,14.9
+2023,Graphic Design,Neutral,57.6
+2024,Fashion,Red,57.0
+2024,Fashion,Blue,58.3
+2024,Fashion,Green,72.1
+2024,Fashion,Yellow,21.6
+2024,Fashion,Purple,63.0
+2024,Fashion,Pink,62.1
+2024,Fashion,Orange,42.9
+2024,Fashion,Neutral,74.9
+2024,Film,Red,66.9
+2024,Film,Blue,73.2
+2024,Film,Green,55.0
+2024,Film,Yellow,51.3
+2024,Film,Purple,63.4
+2024,Film,Pink,48.9
+2024,Film,Orange,55.1
+2024,Film,Neutral,77.4
+2024,Social Media,Red,39.8
+2024,Social Media,Blue,51.1
+2024,Social Media,Green,73.5
+2024,Social Media,Yellow,57.9
+2024,Social Media,Purple,34.3
+2024,Social Media,Pink,82.2
+2024,Social Media,Orange,60.7
+2024,Social Media,Neutral,53.3
+2024,Interior Design,Red,43.4
+2024,Interior Design,Blue,50.9
+2024,Interior Design,Green,57.5
+2024,Interior Design,Yellow,47.4
+2024,Interior Design,Purple,45.8
+2024,Interior Design,Pink,45.0
+2024,Interior Design,Orange,35.5
+2024,Interior Design,Neutral,57.5
+2024,Graphic Design,Red,50.3
+2024,Graphic Design,Blue,72.7
+2024,Graphic Design,Green,46.1
+2024,Graphic Design,Yellow,25.3
+2024,Graphic Design,Purple,49.6
+2024,Graphic Design,Pink,75.7
+2024,Graphic Design,Orange,53.4
+2024,Graphic Design,Neutral,57.9
